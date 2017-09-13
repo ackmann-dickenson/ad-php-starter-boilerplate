@@ -1,0 +1,14 @@
+{
+  "name": "php-starter-template",
+  "description": "Starter PHP Boilerplate",
+  "main": "entry.js",
+  "authors": [
+    "Ackmann & Dickenson"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
